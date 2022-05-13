@@ -24,5 +24,4 @@ use Laminas\Ldap\Ldap;
         echo '<p>Credencials incorrectes. Torna a intentar-ho.</p>
             <a href="index.php"><button>Inici</button></a>';
     }
-
 ?>

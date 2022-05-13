@@ -24,7 +24,7 @@ $domini = 'dc=fjeclot,dc=net';
 $opcions = [
     'host' => 'zend-dagaco',
     'username' => "cn=admin,$domini",
-    'password' => 'Clotfje#2022',
+    'password' => 'fjeclot',
     'bindRequiresDn' => true,
     'accountDomainName' => 'fjeclot.net',
     'baseDn' => 'dc=fjeclot,dc=net',
